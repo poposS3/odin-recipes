@@ -1,0 +1,47 @@
+body{
+	color:grey;
+	background-color:lightpink;
+	font-family:"helvetica",sans-serif;
+}
+
+.heading{
+	font-size:32px;
+	font-family:"Time new roman", serif;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.introduction{
+	font-size:24px;
+}
+
+.subheading{
+	font-size:27px;
+	font-family:serif;
+	font-weight:bolder;
+	margin-left: 10%;
+}
+
+.list{
+	color:grey;
+	border:5px solid grey;
+	margin-left:5%;
+	margin-right: 50%;
+	box-sizing: border-box;
+}
+
+.rule{
+	margin-left:10%;
+	margin-right:68.5%;
+	margin-top:-20px;
+	margin-bottom:20px;
+}
+
+.lstyle{
+	color: white;
+	background-color: black;
+	padding:2px;
+	font-size:24px;
+	font-family: monospace;
+}
+
